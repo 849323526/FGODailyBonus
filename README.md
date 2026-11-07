@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > 现在FGO新增了`play integrity api`，使用这个脚本可能造成账号被标记，导致登录时需要满足`App Check`的条件，不然会出现`99-`开头的错误代码
-> 
+> 现在由于github服务器的迁移修改了环境，需要将yaml的运行环境ubuntu-latest 改为 runs-on: ubuntu-24.04
 > ![a0](imgs/a0.jpg)
 > 
 > 经过测试，只需要设备通过`MEETS_BASIC_INTEGRITY`即可正常登录
